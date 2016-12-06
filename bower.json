@@ -1,0 +1,17 @@
+{
+  "name": "douban",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "zhouxiaoyao <1187990074@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/zhouxiaoyao/douban",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
